@@ -1,0 +1,5 @@
+[run]
+omit =
+    fittrackee/.venv/*
+    fittrackee/tests/*
+    fittrackee/migrations/*
